@@ -1,0 +1,1 @@
+sudo echo "tuantb have been built this vm" > /root/tuantb.log
